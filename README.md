@@ -23,12 +23,9 @@ Los 42 tests juntos:
 
 ![42 tests](evidencias/final_42.png)
 
-## Interfaces de la app
+## Interfaz
 
-| Inicio | Modo demo | Detalle de lugar |
-|---|---|---|
-| ![Inicio](interfaces/inicio.png) | ![Modo demo](interfaces/demo.png) | ![Detalle](interfaces/detalle.png) |
+Pantalla de inicio: acceso a la exploración con GPS real, al modo demo, al
+modelo 3D y la lista de lugares del recorrido.
 
-| Modelo 3D | Pasaporte |
-|---|---|
-| ![Modelo 3D](interfaces/modelo3d.png) | ![Pasaporte](interfaces/pasaporte.png) |
+![Pantalla de inicio](interfaces/inicioAr.png)
