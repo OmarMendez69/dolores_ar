@@ -28,4 +28,4 @@ Los 42 tests juntos:
 Pantalla de inicio: acceso a la exploración con GPS real, al modo demo, al
 modelo 3D y la lista de lugares del recorrido.
 
-![Pantalla de inicio](interfaces/inicioAr.png)
+![Pantalla de inicio](evidencias/inicioAr.png)
