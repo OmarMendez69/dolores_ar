@@ -2,9 +2,8 @@
 
 App turística con realidad aumentada para visitar Dolores Hidalgo.
 
-Desarrollo Móvil Integral · UTNG · Prof. Anastacio Rodríguez García
 
-**Alumno:** Omar Mendez · **Grupo:** GTID232
+**Alumno:** Omar Mendez · **Grupo:** GTID243
 
 ## Evidencias por ronda
 
